@@ -1,0 +1,45 @@
+Blinding Lights;The Weeknd;2001;Pop;2019
+Shape of You;Ed Sheeran;2002;Pop;2017
+Uptown Funk;Mark Ronson ft. Bruno Mars;2003;Funk;2014
+Old Town Road;Lil Nas X ft. Billy Ray Cyrus;2004;Hip-Hop;2019
+Despacito;Luis Fonsi ft. Daddy Yankee;2005;Latin;2017
+Bad Guy;Billie Eilish;2006;Pop;2019
+Closer;The Chainsmokers ft. Halsey;2007;Electronic;2016
+Rockstar;Post Malone ft. 21 Savage;2008;Hip-Hop;2017
+Havana;Camila Cabello ft. Young Thug;2009;Pop;2017
+Someone Like You;Adele;2010;Pop;2011
+Perfect;Ed Sheeran;2011;Pop;2017
+Sicko Mode;Travis Scott;2012;Hip-Hop;2018
+Rolling in the Deep;Adele;2013;Pop;2010
+Thinking Out Loud;Ed Sheeran;2014;Pop;2014
+Sunflower;Post Malone ft. Swae Lee;2015;Hip-Hop;2018
+Billie Jean;Michael Jackson;2016;Pop;1982
+Bohemian Rhapsody;Queen;2017;Rock;1975
+Stairway to Heaven;Led Zeppelin;2018;Rock;1971
+Imagine;John Lennon;2019;Rock;1971
+Sweet Child o Mine;Guns N Roses;2020;Rock;1987
+Blinding Lights;The Weeknd;2001;Pop;2019
+Shape of You;Ed Sheeran;2002;Pop;2017
+Uptown Funk;Mark Ronson ft. Bruno Mars;2003;Funk;2014
+Old Town Road;Lil Nas X ft. Billy Ray Cyrus;2004;Hip-Hop;2019
+Despacito;Luis Fonsi ft. Daddy Yankee;2005;Latin;2017
+Bad Guy;Billie Eilish;2006;Pop;2019
+Closer;The Chainsmokers ft. Halsey;2007;Electronic;2016
+Rockstar;Post Malone ft. 21 Savage;2008;Hip-Hop;2017
+Havana;Camila Cabello ft. Young Thug;2009;Pop;2017
+Someone Like You;Adele;2010;Pop;2011
+Perfect;Ed Sheeran;2011;Pop;2017
+Sicko Mode;Travis Scott;2012;Hip-Hop;2018
+Rolling in the Deep;Adele;2013;Pop;2010
+Thinking Out Loud;Ed Sheeran;2014;Pop;2014
+Sunflower;Post Malone ft. Swae Lee;2015;Hip-Hop;2018
+Billie Jean;Michael Jackson;2016;Pop;1982
+Bohemian Rhapsody;Queen;2017;Rock;1975
+Stairway to Heaven;Led Zeppelin;2018;Rock;1971
+Imagine;John Lennon;2019;Rock;1971
+Sweet Child o Mine;Guns N Roses;2020;Rock;1987
+New Rules;Dua Lipa;2021;Pop;2017
+Radioactive;Imagine Dragons;2022;Rock;2012
+Thunder;Imagine Dragons;2023;Rock;2017
+Shallow;Lady Gaga ft. Bradley Cooper;2024;Pop;2018
+Believer;Imagine Dragons;2025;Rock;2017
